@@ -18,6 +18,11 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
+  <scm>
+    <developerConnection>scm:git:git@github.com:kyrychenkoartem/first-maven.git</developerConnection>
+    <connection>scm:git:git@github.com:kyrychenkoartem/first-maven.git</connection>
+  </scm>
+
 <!--  project.groupId-->
 <!--  settings.(nexus)-->
 <!--  properties ${spring.version}-->
