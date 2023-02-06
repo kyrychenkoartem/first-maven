@@ -5,7 +5,7 @@
 
   <groupId>com.artem</groupId>
   <artifactId>first-maven</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <modules>
     <module>database</module>
     <module>service</module>
@@ -20,6 +20,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/kyrychenkoartem/first-maven.git</developerConnection>
     <connection>scm:git:https://github.com/kyrychenkoartem/first-maven.git</connection>
+    <tag>1.0.0</tag>
   </scm>
 
 <!--  project.groupId-->
